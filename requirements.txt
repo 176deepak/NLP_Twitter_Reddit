@@ -6,4 +6,4 @@ scikit-learn
 nltk
 tensorflow
 keras
--e .
+# -e .
